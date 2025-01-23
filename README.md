@@ -11,8 +11,7 @@ Welcome to the Thapar TechCon 2025, the ultimate technology and programming conf
 Thapar TechCon 2025 is a one-day event that promises to be a hub of insightful talks, hands-on workshops, and unparalleled networking opportunities. Join us as we explore the latest advancements in the fields of AI, machine learning, cloud computing, and more.
 
 <p align="center">
-  <img src="https://i.imgur.com/0ZcQUg9.gif" alt="Thapar TechCon 2025 Event" width="600">
-</p>
+
 
 ## Event Schedule 📅
 
@@ -26,7 +25,7 @@ Thapar TechCon 2025 is a one-day event that promises to be a hub of insightful t
 ## Meet the Speakers 🧑‍💻
 
 <p align="center">
-  <img src="https://i.imgur.com/Vy4NX8F.gif" alt="Thapar TechCon 2025 Speakers" width="600">
+  
 </p>
 
 - **Dr. Renu Kumari**: AI Expert and Researcher
@@ -37,8 +36,6 @@ Thapar TechCon 2025 is a one-day event that promises to be a hub of insightful t
 ## Contact Us 📩
 
 <p align="center">
-  <img src="https://i.imgur.com/8EZXvxJ.gif" alt="Thapar TechCon 2025 Contact Form" width="600">
-</p>
 
 Name:
 <input type="text" id="name" name="name">
