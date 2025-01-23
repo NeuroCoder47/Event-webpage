@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/xsHhzNR.gif" alt="Thapar TechCon 2025 Logo" width="300">
+  <img src="opt.png" alt="Thapar TechCon 2025 Logo" width="300">
 </p>
 
 # Thapar TechCon 2025 🎉
